@@ -1,0 +1,8 @@
+mov r1 27
+mov r2 33
+sub r1 r1 r2 
+mov r4 21
+mul r1 r1 r4
+mov r5 r1
+div r5 r5 7
+end
